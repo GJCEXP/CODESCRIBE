@@ -72,13 +72,13 @@ python s3_eval_res.py"
 
 - The main parameter settings for CODESCRIBE are show as:
 
-<img src="https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG453.png" width="60%" height="60%" alt="params">
+<img src="https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG453.png" width="50%" height="50%" alt="params">
 
 [comment]: <> (![params]&#40;https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG453.png&#41;)
 
 - The time used per epoch and the memory usage are provided as:
 
-<img src="https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG454.png" width="60%" height="60%" alt="usage">
+<img src="https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG454.png" width="50%" height="50%" alt="usage">
 
 [comment]: <> (![usage]&#40;https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG454.png&#41;)
 
