@@ -69,19 +69,31 @@ python s3_eval_res.py"
 - If the model has been trained, you can set the parameter "train_mode" in line 113 in `config.py` to "False". Then you can predict the test data directly by using the model that has been saved in `data/python/model/`.
 
 # More Implementation Details.
+
 - The main parameter settings for CODESCRIBE are show as:
-![params](https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG453.png)
+
+<img src="https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG453.png" width="60%" height="60%" alt="params">
+
+[comment]: <> (![params]&#40;https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG453.png&#41;)
 
 - The time used per epoch and the memory usage are provided as:
-![usage](https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG454.png)
+
+<img src="https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG454.png" width="60%" height="60%" alt="usage">
+
+[comment]: <> (![usage]&#40;https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG454.png&#41;)
 
 # Experimental Result:
 We provide part of our experiment result as below.
 - Comparison with state-of-the-arts. We add two pre-trained models as additional baselines for comparison.
+
 ![Comparison with the baselines](https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG450.png)
+
 - We addintionally provide human evluation.
+
 ![Human evluation](https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG451.png)
+
 - Qualitative examples.
+
 ![Examples](https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG452.png)
 
     
