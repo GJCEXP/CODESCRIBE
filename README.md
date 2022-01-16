@@ -9,7 +9,7 @@ In this work, we propose CODESCRIBE to model the hierarchical syntax structure o
     * Python 2.7 (virtual environment named as python27)
 - PyTorch 1.9 for Python 3.9  
 - PyTorch Geometric 1.7 for Python 3.9  
-- Specifically, install our package with "pip install my-lib-0.0.6.tar.gz" for both Python 3.9 and Python 2.7. The package can be downloaded at https://drive.google.com/file/d/1yAczhoUP_xYl8N_9vmPNu8RhtKVch7dc/view?usp=sharing  
+- Specifically, install our package with "pip install my-lib-0.0.6.tar.gz" for both Python 3.9 and Python 2.7. The package can be downloaded from [Google Drive](https://drive.google.com/file/d/1yAczhoUP_xYl8N_9vmPNu8RhtKVch7dc/view?usp=sharing)  
 # Dataset
 The whole datasets of Python and Java can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1kh3TEeoChoEqBJKdLf0HLVZXwzn2R0Xq?usp=sharing).
 
