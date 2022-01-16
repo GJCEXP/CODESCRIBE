@@ -1,4 +1,4 @@
-# ACL 2022
+# CODESCRIBE
 In this work, we propose CODESCRIBE to model the hierarchical syntax structure of code by introducing a **novel triplet position** for code summarization. Specifically, CODESCRIBE leverages the **graph neural network** and **Transformer** to preserve the structural and sequential information of code, respectively. In addition, we propose a **pointer-generator network** that pays attention to both the structure and sequential tokens of code for a better summary generation. Experiments on two real-world datasets in Java and Python demonstrate the effectiveness of our proposed approach when compared with several state-of-the-art baselines.
 # Runtime Environment
 4 NVIDIA 2080 Ti GPUs  
