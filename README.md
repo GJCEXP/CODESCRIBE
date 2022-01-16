@@ -4,7 +4,7 @@ In this work, we propose CODESCRIBE to model the hierarchical syntax structure o
 4 NVIDIA 2080 Ti GPUs  
 - Ubuntu 16.04  
 - CUDA 10.2 (with CuDNN of the corresponding version)
-- Anaconda with python 3.9 as
+- Anaconda
     * Python 3.9 (base environment)
     * Python 2.7 (virtual environment named as python27)
 - PyTorch 1.9 for Python 3.9  
