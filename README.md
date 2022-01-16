@@ -70,19 +70,19 @@ python s3_eval_res.py"
 
 # More Implementation Details.
 - The main parameter settings for CODESCRIBE are show as:
-![params](https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/WechatIMG453.png)
+![params](https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG453.png)
 
 - The time used per epoch and the memory usage are provided as:
-![usage](https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/WechatIMG454.png)
+![usage](https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG454.png)
 
 # Experimental Result:
 We provide part of our experiment result as below.
 - Comparison with state-of-the-arts. We add two pre-trained models as additional baselines for comparison.
-![Comparison with the baselines](https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/WechatIMG450.png)
+![Comparison with the baselines](https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG450.png)
 - We addintionally provide human evluation.
-![Human evluation](https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/WechatIMG451.png)
+![Human evluation](https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG451.png)
 - Qualitative examples.
-![Examples](https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/WechatIMG452.png)
+![Examples](https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG452.png)
 
     
 
