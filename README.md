@@ -11,7 +11,7 @@ In this work, we propose CODESCRIBE to model the hierarchical syntax structure o
 - PyTorch Geometric 1.7 for Python 3.9  
 - Specifically, install our package with ```pip install my-lib-0.0.6.tar.gz``` for both Python 3.9 and Python 2.7. The package can be downloaded from [Google Drive](https://drive.google.com/file/d/1yAczhoUP_xYl8N_9vmPNu8RhtKVch7dc/view?usp=sharing)  
 # Dataset
-The whole datasets of Python and Java can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1kh3TEeoChoEqBJKdLf0HLVZXwzn2R0Xq?usp=sharing).
+The whole datasets of Python and Java can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1Xdk3QLQmRK7ogHCV2ZlxMYaMBlONlZb1?usp=sharing).
 
 **Note that:** We provide 100 samples for train/valid/test datasets in the directory `data/python/raw_data/` and `data/java/raw_data/`. To run on the whole dataset, replace these samples with the data files downloaded.
 
@@ -66,35 +66,35 @@ python s3_eval_res.py"
 
 **Note that:** 
 - all the parameters are set in `src_code/java/config.py`.
-- If the model has been trained, you can set the parameter "train_mode" in line 113 in `config.py` to "False". Then you can predict the test data directly by using the model that has been saved in `data/python/model/`.
+- If the model has been trained, you can set the parameter "train_mode" in line 113 in `config.py` to "False". Then you can predict the test data directly by using the model that has been saved in `data/java/model/`.
 
 # More Implementation Details.
 
 - The main parameter settings for CODESCRIBE are shown as:
 
-<img src="https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG453.png" width="50%" height="50%" alt="params">
+<img src="https://github.com/GJCEXP/IMG/blob/main/CODESCRIBE_IMG/IMG453.png" width="50%" height="50%" alt="params">
 
-[comment]: <> (![params]&#40;https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG453.png&#41;)
+[comment]: <> (![params]&#40;https://github.com/GJCEXP/IMG/blob/main/CODESCRIBE_IMG/IMG453.png&#41;)
 
 - The time used per epoch and the memory usage are provided as:
 
-<img src="https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG454.png" width="50%" height="50%" alt="usage">
+<img src="https://github.com/GJCEXP/IMG/blob/main/CODESCRIBE_IMG/IMG454.png" width="50%" height="50%" alt="usage">
 
-[comment]: <> (![usage]&#40;https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG454.png&#41;)
+[comment]: <> (![usage]&#40;https://github.com/GJCEXP/IMG/blob/main/CODESCRIBE_IMG/IMG454.png&#41;)
 
 # Experimental Result:
 We provide part of our experiment result as below.
 - Comparison with state-of-the-arts. We add two pre-trained models as additional baselines for comparison.
 
-![Comparison with the baselines](https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG450.png)
+![Comparison with the baselines](https://github.com/GJCEXP/IMG/blob/main/CODESCRIBE_IMG/IMG450.png)
 
 - We addintionally provide human evluation.
 
-![Human evluation](https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG451.png)
+![Human evluation](https://github.com/GJCEXP/IMG/blob/main/CODESCRIBE_IMG/IMG451.png)
 
 - Qualitative examples.
 
-![Examples](https://github.com/anonymousrepoxxx/IMG/blob/main/CODESCRIBE_IMG/IMG452.png)
+![Examples](https://github.com/GJCEXP/IMG/blob/main/CODESCRIBE_IMG/IMG452.png)
 
 ***This paper is still under review, please do not distribute it.***
 

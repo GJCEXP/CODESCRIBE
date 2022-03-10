@@ -15,5 +15,5 @@ for item in res_data:
     pred_texts.append(pred_text)
 
 print(get_sent_bleu.__name__,':',get_sent_bleu(pred_texts,gold_texts))
-print(get_sent_bleu.__name__,':',get_meteor(pred_texts,gold_texts))
-print(get_sent_bleu.__name__,':',get_rouge(pred_texts,gold_texts))
+print(get_meteor.__name__,':',get_meteor(pred_texts,gold_texts))
+print(get_rouge.__name__,':',get_rouge(pred_texts,gold_texts))
