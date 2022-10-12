@@ -88,15 +88,13 @@ We provide part of our experiment result as below.
 
 ![Comparison with the baselines](https://github.com/GJCEXP/IMG/blob/main/CODESCRIBE_IMG/IMG450.png)
 
-- We addintionally provide human evluation.
+<!-- - We addintionally provide human evluation.
 
-![Human evluation](https://github.com/GJCEXP/IMG/blob/main/CODESCRIBE_IMG/IMG451.png)
+![Human evluation](https://github.com/GJCEXP/IMG/blob/main/CODESCRIBE_IMG/IMG451.png) -->
 
 - Qualitative examples.
 
 ![Examples](https://github.com/GJCEXP/IMG/blob/main/CODESCRIBE_IMG/IMG452.png)
 
 <!-- ***This paper is still under review, please do not distribute it.*** -->
-
-    
 
